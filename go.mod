@@ -14,4 +14,4 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
 
-replace github.com/cloudwego/hertz v0.3.2 => github.com/haswf/hertz v0.3.2
+replace github.com/cloudwego/hertz => github.com/haswf/hertz v0.3.3-0.20221012140336-0bcc9b473cfa
